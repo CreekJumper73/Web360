@@ -59,7 +59,7 @@
             <li><a href="#header">Home</a></li>
             <li><a href="#service">Services</a></li>
            
-            <li class="small-logo"><a href="#header"><img src="img/Tinylogo.png" alt=""></a></li>
+            <li class="small-logo"><a href="#header"><img src="img/tinylogo.png" alt=""></a></li>
             <li><a href="#Portfolio">Portfolio</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
